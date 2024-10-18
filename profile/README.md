@@ -1,3 +1,5 @@
+**NOTE:** Old Github association https://github.com/PlanetaryCouncil/ImpactEvaluation.foundation
+
 ## Impact Verification Wiki (IEF) 🌍📊
 
 Hi there 👋
