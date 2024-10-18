@@ -18,14 +18,15 @@ We thrive on collaboration! Here’s how you can contribute to the Ecological Im
 - Environmental Experts: Contribute your knowledge by expanding our ecological data, tools, and best practices.
 - Researchers & Academics: Share studies, data, and findings related to ecological impact assessment.
 - Community Members: Get involved by providing feedback, reporting issues, or sharing new ideas. Your input helps us grow!
-- 👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
+
+👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
 
 ## Useful Resources 👩‍💻
 
-🌐 Website: ief.wiki
-📜 Documentation: Coming soon! Stay tuned for detailed guides and documentation.
-🤖 AI Tools & Codebase: Learn more about how we integrate AI and blockchain technology by exploring our codebase.
-🗣️ Join the Conversation: Have questions? Want to connect? Reach out to us through our community forum!
+- 🌐 Website: ief.wiki
+- 📜 Documentation: Coming soon! Stay tuned for detailed guides and documentation.
+- 🤖 AI Tools & Codebase: Learn more about how we integrate AI and blockchain technology by exploring our codebase.
+- 🗣️ Join the Conversation: Have questions? Want to connect? Reach out to us through our community forum!
 
 ## Fun Facts 🍿
 
