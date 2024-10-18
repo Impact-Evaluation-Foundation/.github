@@ -33,12 +33,12 @@ Our team loves 🌿 sustainability and the occasional 🌱 eco-friendly breakfas
 We’re powered by collaboration and a shared passion for regenerating the planet. 💪
 
 ## Meet the Team 🙋‍♀️
-Sharon - CEO
-Daniel - Product Manager & Business Consultant
-Adrian - Program Manager
-Greg - Tech Lead
-IT Graduate Interns - The devs bringing our vision to life!
-Ecology/Sustainability Interns - Future stars driving ecological insights.
+- Sharon - CEO
+- Daniel - Product Manager & Business Consultant
+- Adrian - Program Manager
+- Greg - Tech Lead
+- IT Graduate Interns - The devs bringing our vision to life!
+- Ecology/Sustainability Interns - Future stars driving ecological insights.
 
 ## License 📜
 Wiki Content: Available under CC0 1.0 Universal – use it freely for any purpose!
