@@ -21,28 +21,29 @@ We thrive on collaboration! Here’s how you can contribute to the Ecological Im
 # 👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
 
 ## Useful Resources 👩‍💻
-# 🌐 Website: ief.wiki
-# 📜 Documentation: Coming soon! Stay tuned for detailed guides and documentation.
-# 🤖 AI Tools & Codebase: Learn more about how we integrate AI and blockchain technology by exploring our codebase.
-# 🗣️ Join the Conversation: Have questions? Want to connect? Reach out to us through our community forum!
+
+🌐 Website: ief.wiki
+📜 Documentation: Coming soon! Stay tuned for detailed guides and documentation.
+🤖 AI Tools & Codebase: Learn more about how we integrate AI and blockchain technology by exploring our codebase.
+🗣️ Join the Conversation: Have questions? Want to connect? Reach out to us through our community forum!
 
 ## Fun Facts 🍿
-# Our team loves 🌿 sustainability and the occasional 🌱 eco-friendly breakfast!
-# We’re powered by collaboration and a shared passion for regenerating the planet. 💪
+
+Our team loves 🌿 sustainability and the occasional 🌱 eco-friendly breakfast!
+We’re powered by collaboration and a shared passion for regenerating the planet. 💪
 
 ## Meet the Team 🙋‍♀️
-# Sharon - CEO
-# Daniel - Product Manager & Business Consultant
-# Adrian - Program Manager
-# Greg - Tech Lead
-# IT Graduate Interns - The devs bringing our vision to life!
-# Ecology/Sustainability Interns - Future stars driving ecological insights.
+Sharon - CEO
+Daniel - Product Manager & Business Consultant
+Adrian - Program Manager
+Greg - Tech Lead
+IT Graduate Interns - The devs bringing our vision to life!
+Ecology/Sustainability Interns - Future stars driving ecological insights.
 
 ## License 📜
-# Wiki Content: Available under CC0 1.0 Universal – use it freely for any purpose!
-# Code: Licensed under CC BY 4.0 or Apache License 2.0 – give us credit when using our work!
-# For more details, check out the full license here.
+Wiki Content: Available under CC0 1.0 Universal – use it freely for any purpose!
+Code: Licensed under CC BY 4.0 or Apache License 2.0 – give us credit when using our work!
+For more details, check out the full license here.
 
 # Call to Action 💡
 We invite you to help build the future of ecological transparency! Whether you’re a developer, environmental expert, or passionate about sustainability, your contributions will make a difference. Together, we can create a more transparent and accountable system for measuring ecological impact. 🌍💪
-
