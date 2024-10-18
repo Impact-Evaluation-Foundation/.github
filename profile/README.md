@@ -1,4 +1,6 @@
-**NOTE:** Old Github association https://github.com/PlanetaryCouncil/ImpactEvaluation.foundation
+**NOTE:** 
+1. Old Github association https://github.com/PlanetaryCouncil/ImpactEvaluation.foundation
+2. Old domain: impactevaluation.foundation - currently migrating to ief.wiki
 
 ## Impact Verification Wiki (IEF) 🌍📊
 
