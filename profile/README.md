@@ -14,11 +14,11 @@ We envision a world where every ecological action is informed by reliable data, 
 ## How to Get Involved 🌈
 We thrive on collaboration! Here’s how you can contribute to the Ecological Impact Verification Wiki:
 
-Developers: Help build the platform by contributing to the open-source code. Check out our issues to get started!
-Environmental Experts: Contribute your knowledge by expanding our ecological data, tools, and best practices.
-Researchers & Academics: Share studies, data, and findings related to ecological impact assessment.
-Community Members: Get involved by providing feedback, reporting issues, or sharing new ideas. Your input helps us grow!
-👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
+- Developers: Help build the platform by contributing to the open-source code. Check out our issues to get started!
+- Environmental Experts: Contribute your knowledge by expanding our ecological data, tools, and best practices.
+- Researchers & Academics: Share studies, data, and findings related to ecological impact assessment.
+- Community Members: Get involved by providing feedback, reporting issues, or sharing new ideas. Your input helps us grow!
+- 👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
 
 ## Useful Resources 👩‍💻
 
@@ -41,9 +41,8 @@ We’re powered by collaboration and a shared passion for regenerating the plane
 - Ecology/Sustainability Interns - Future stars driving ecological insights.
 
 ## License 📜
-Wiki Content: Available under CC0 1.0 Universal – use it freely for any purpose!
-Code: Licensed under CC BY 4.0 or Apache License 2.0 – give us credit when using our work!
-For more details, check out the full license here.
+- Wiki Content: Available under CC0 1.0 Universal – use it freely for any purpose!
+- Code: Licensed under CC BY 4.0 or Apache License 2.0 – give us credit when using our work!
 
 # Call to Action 💡
 We invite you to help build the future of ecological transparency! Whether you’re a developer, environmental expert, or passionate about sustainability, your contributions will make a difference. Together, we can create a more transparent and accountable system for measuring ecological impact. 🌍💪
