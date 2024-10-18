@@ -14,11 +14,11 @@ We envision a world where every ecological action is informed by reliable data, 
 ## How to Get Involved 🌈
 We thrive on collaboration! Here’s how you can contribute to the Ecological Impact Verification Wiki:
 
-# Developers: Help build the platform by contributing to the open-source code. Check out our issues to get started!
-# Environmental Experts: Contribute your knowledge by expanding our ecological data, tools, and best practices.
-# Researchers & Academics: Share studies, data, and findings related to ecological impact assessment.
-# Community Members: Get involved by providing feedback, reporting issues, or sharing new ideas. Your input helps us grow!
-# 👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
+Developers: Help build the platform by contributing to the open-source code. Check out our issues to get started!
+Environmental Experts: Contribute your knowledge by expanding our ecological data, tools, and best practices.
+Researchers & Academics: Share studies, data, and findings related to ecological impact assessment.
+Community Members: Get involved by providing feedback, reporting issues, or sharing new ideas. Your input helps us grow!
+👉 Contribution Guidelines: Please see our CONTRIBUTING.md for detailed steps on how to get involved.
 
 ## Useful Resources 👩‍💻
 
